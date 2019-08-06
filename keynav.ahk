@@ -97,11 +97,9 @@ Space::
 	Return
 3::
 	MouseClick,Right
-	Gui,destroy
 	Return
 +3::
 	MouseClick,Right,,,2
-	Gui,destroy
 	Return
 +a::
         Click Down
